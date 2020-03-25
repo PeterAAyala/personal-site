@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Peter Ayala',
     index: true,
   },
   {
@@ -16,14 +16,7 @@ const data = [
     path: '/projects',
     label: 'Projects',
   },
-  {
-    path: '/stats',
-    label: 'Stats',
-  },
-  {
-    path: '/contact',
-    label: 'Contact',
-  },
 ];
 
 export default data;
+
